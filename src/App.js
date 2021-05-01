@@ -10,11 +10,11 @@ function App() {
     <div>
       <HashRouter basename={window.location.pathname === ""} >
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="/questionApp" component={Home} />
           {/* <Route exact path = "/questions" component = {Questions} /> */}
-          <Route exact path="/questions/:type" component={Questions} />
-          <Route path="/questions/question/:id" component={Question} />
-          <Route path="/add-question" component={AddQuestion} />
+          <Route exact path="/questionApp/questions/:type" component={Questions} />
+          <Route path="/questionApp/questions/question/:id" component={Question} />
+          <Route path="/questionApp/add-question" component={AddQuestion} />
         </Switch>
       </HashRouter>
     </div>

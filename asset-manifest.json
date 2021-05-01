@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/jatin_bhaiya_questions_web_app/static/css/main.1ee4ff74.chunk.css",
-    "main.js": "/jatin_bhaiya_questions_web_app/static/js/main.84358f0f.chunk.js",
-    "main.js.map": "/jatin_bhaiya_questions_web_app/static/js/main.84358f0f.chunk.js.map",
-    "runtime-main.js": "/jatin_bhaiya_questions_web_app/static/js/runtime-main.27ed1bfa.js",
-    "runtime-main.js.map": "/jatin_bhaiya_questions_web_app/static/js/runtime-main.27ed1bfa.js.map",
-    "static/js/2.3418547b.chunk.js": "/jatin_bhaiya_questions_web_app/static/js/2.3418547b.chunk.js",
-    "static/js/2.3418547b.chunk.js.map": "/jatin_bhaiya_questions_web_app/static/js/2.3418547b.chunk.js.map",
-    "index.html": "/jatin_bhaiya_questions_web_app/index.html",
-    "static/css/main.1ee4ff74.chunk.css.map": "/jatin_bhaiya_questions_web_app/static/css/main.1ee4ff74.chunk.css.map",
-    "static/js/2.3418547b.chunk.js.LICENSE.txt": "/jatin_bhaiya_questions_web_app/static/js/2.3418547b.chunk.js.LICENSE.txt"
+    "main.css": "/questionApp/static/css/main.1ee4ff74.chunk.css",
+    "main.js": "/questionApp/static/js/main.84358f0f.chunk.js",
+    "main.js.map": "/questionApp/static/js/main.84358f0f.chunk.js.map",
+    "runtime-main.js": "/questionApp/static/js/runtime-main.c91f61d2.js",
+    "runtime-main.js.map": "/questionApp/static/js/runtime-main.c91f61d2.js.map",
+    "static/js/2.3418547b.chunk.js": "/questionApp/static/js/2.3418547b.chunk.js",
+    "static/js/2.3418547b.chunk.js.map": "/questionApp/static/js/2.3418547b.chunk.js.map",
+    "index.html": "/questionApp/index.html",
+    "static/css/main.1ee4ff74.chunk.css.map": "/questionApp/static/css/main.1ee4ff74.chunk.css.map",
+    "static/js/2.3418547b.chunk.js.LICENSE.txt": "/questionApp/static/js/2.3418547b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.27ed1bfa.js",
+    "static/js/runtime-main.c91f61d2.js",
     "static/js/2.3418547b.chunk.js",
     "static/css/main.1ee4ff74.chunk.css",
     "static/js/main.84358f0f.chunk.js"

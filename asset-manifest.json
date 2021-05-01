@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/questionApp/static/css/main.1ee4ff74.chunk.css",
-    "main.js": "/questionApp/static/js/main.9f8a64c1.chunk.js",
-    "main.js.map": "/questionApp/static/js/main.9f8a64c1.chunk.js.map",
+    "main.js": "/questionApp/static/js/main.11601d67.chunk.js",
+    "main.js.map": "/questionApp/static/js/main.11601d67.chunk.js.map",
     "runtime-main.js": "/questionApp/static/js/runtime-main.c91f61d2.js",
     "runtime-main.js.map": "/questionApp/static/js/runtime-main.c91f61d2.js.map",
-    "static/js/2.3418547b.chunk.js": "/questionApp/static/js/2.3418547b.chunk.js",
-    "static/js/2.3418547b.chunk.js.map": "/questionApp/static/js/2.3418547b.chunk.js.map",
+    "static/js/2.7dee0ab8.chunk.js": "/questionApp/static/js/2.7dee0ab8.chunk.js",
+    "static/js/2.7dee0ab8.chunk.js.map": "/questionApp/static/js/2.7dee0ab8.chunk.js.map",
     "index.html": "/questionApp/index.html",
     "static/css/main.1ee4ff74.chunk.css.map": "/questionApp/static/css/main.1ee4ff74.chunk.css.map",
-    "static/js/2.3418547b.chunk.js.LICENSE.txt": "/questionApp/static/js/2.3418547b.chunk.js.LICENSE.txt"
+    "static/js/2.7dee0ab8.chunk.js.LICENSE.txt": "/questionApp/static/js/2.7dee0ab8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c91f61d2.js",
-    "static/js/2.3418547b.chunk.js",
+    "static/js/2.7dee0ab8.chunk.js",
     "static/css/main.1ee4ff74.chunk.css",
-    "static/js/main.9f8a64c1.chunk.js"
+    "static/js/main.11601d67.chunk.js"
   ]
 }

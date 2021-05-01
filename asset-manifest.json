@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jatin_bhaiya_questions_web_app/static/css/main.1ee4ff74.chunk.css",
+    "main.js": "/jatin_bhaiya_questions_web_app/static/js/main.84358f0f.chunk.js",
+    "main.js.map": "/jatin_bhaiya_questions_web_app/static/js/main.84358f0f.chunk.js.map",
+    "runtime-main.js": "/jatin_bhaiya_questions_web_app/static/js/runtime-main.27ed1bfa.js",
+    "runtime-main.js.map": "/jatin_bhaiya_questions_web_app/static/js/runtime-main.27ed1bfa.js.map",
+    "static/js/2.3418547b.chunk.js": "/jatin_bhaiya_questions_web_app/static/js/2.3418547b.chunk.js",
+    "static/js/2.3418547b.chunk.js.map": "/jatin_bhaiya_questions_web_app/static/js/2.3418547b.chunk.js.map",
+    "index.html": "/jatin_bhaiya_questions_web_app/index.html",
+    "static/css/main.1ee4ff74.chunk.css.map": "/jatin_bhaiya_questions_web_app/static/css/main.1ee4ff74.chunk.css.map",
+    "static/js/2.3418547b.chunk.js.LICENSE.txt": "/jatin_bhaiya_questions_web_app/static/js/2.3418547b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ed1bfa.js",
+    "static/js/2.3418547b.chunk.js",
+    "static/css/main.1ee4ff74.chunk.css",
+    "static/js/main.84358f0f.chunk.js"
+  ]
+}

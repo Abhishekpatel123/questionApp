@@ -7,7 +7,8 @@ import Home from './components/Home';
 
 function App() {
   return (
-    <BrowserRouter>
+    
+    <BrowserRouter basename ={window.location.pathname === ""} >
       <Switch>
         <Route exact path = "/" component = {Home} />
         {/* <Route exact path = "/questions" component = {Questions} /> */}

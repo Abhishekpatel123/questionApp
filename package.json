@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "http://abhishekpatel123.github.io/questionApp",
+  "homepage": "https://abhishekpatel123.github.io/questionApp",
   "proxy": "https://jatin-question-backend.herokuapp.com",
   "version": "0.1.0",
   "private": true,

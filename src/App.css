@@ -18,7 +18,7 @@
 
 .home {
   display: grid;
-    grid-template-columns: repeat(auto-fit ,minmax(300px , 1fr));
+    grid-template-columns: repeat(auto-fit ,minmax(150px , 1fr));
     grid-gap: 4px;
 }
 
@@ -26,5 +26,6 @@
   background-color: darkgrey;
   box-shadow: 0 0 4px black;
   text-align: center;
+  word-break: break-word;
   padding: 7px 0;
 }

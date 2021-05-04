@@ -13,14 +13,13 @@
 
 .add_question a  {
  width: 100%;
-
 }
 
 
 .home {
   display: grid;
-    grid-template-columns: repeat(auto-fit ,minmax(100px , 1fr));
-    grid-gap: 8px;
+    grid-template-columns: repeat(auto-fit ,minmax(300px , 1fr));
+    grid-gap: 4px;
 }
 
 .card{
